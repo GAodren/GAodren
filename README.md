@@ -30,11 +30,11 @@ Full-stack web app providing property price estimates for the French Polynesian 
 ---
 
 ### [JobOffers](https://github.com/GAodren/JobOffers) — Automated Job Market Monitor
-Live repository updated daily by an automated n8n pipeline.
+Live repository and website updated daily by an automated n8n pipeline.
 - n8n workflow hosted on a VPS scrapes and filters LinkedIn job postings
+- Results published to a live website updated automatically every day
 - AI agents analyze and rank opportunities based on custom criteria
 - MCP server extends agent capabilities through external tools
-- **Updated daily** — check the latest commits
 
 **Stack:** n8n, VPS, LinkedIn API, AI agents, MCP Server
 
