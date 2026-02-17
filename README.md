@@ -1,6 +1,6 @@
 # Hey, I'm Aodren 👋
 
-Software Engineer & Automation enthusiast based in Lannion, France.
+Software Engineer & Automation enthusiast based in France.
 
 I build full-stack applications and automated workflows that solve real problems — from real estate valuation platforms to AI-powered job search pipelines.
 
@@ -10,7 +10,7 @@ Currently working at **EXAIL Robotics** (work-study) while completing my M.S. in
 
 **Languages:** C/C++, Python, JavaScript, Java, PHP, SQL
 
-**Frameworks & Tools:** n8n, Node.js, Docker, Vite, React, Bootstrap
+**Frameworks & Tools:** n8n, Node.js, Docker, Vite, React
 
 **Databases:** PostgreSQL, MySQL, Supabase
 
